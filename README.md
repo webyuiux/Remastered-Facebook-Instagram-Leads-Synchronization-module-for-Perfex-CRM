@@ -7,7 +7,7 @@
 [![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-v17.0-1877F2?style=flat-square&logo=facebook)](https://developers.facebook.com/docs/graph-api/)
 [![License](https://img.shields.io/badge/License-Commercial-green?style=flat-square)](#license)
 
-![Submitted Leads Dashboard](Submitted%20Leads.png)
+![Submitted Leads Dashboard](screenshots/Submitted%20Leads.png)
 
 ---
 
@@ -193,7 +193,7 @@ Staff members with no campaign assignment see an empty leads page (not an error)
 
 ### Leads Page `/admin/meta_leads/submitted_leads`
 
-![Submitted Leads](Submitted%20Leads.png)
+![Submitted Leads](screenshots/Submitted%20Leads.png)
 
 - Dashboard stat cards: Total Synced, Total Added, Pending count
 - Real-time search across name, email, phone, and campaign
@@ -204,7 +204,7 @@ Staff members with no campaign assignment see an empty leads page (not an error)
 
 ### Campaign Mapping `/admin/meta_leads/lead_settings`
 
-![Campaign Mapping](Lead%20Settings.png)
+![Campaign Mapping](screenshots/Lead%20Settings.png)
 
 - Lists all Facebook Lead Ad forms from your connected pages
 - Each card shows: form name, page name, lead count, assigned staff, sync button
@@ -215,7 +215,7 @@ Staff members with no campaign assignment see an empty leads page (not an error)
 
 ### Sync Logs `/admin/meta_leads/sync_history`
 
-![Sync Logs](Sync%20History.png)
+![Sync Logs](screenshots/Sync%20History.png)
 
 - Audit trail of every lead sync event (webhook and manual)
 - Columns: Date, Lead ID, Form, Status, Message
@@ -226,7 +226,7 @@ Staff members with no campaign assignment see an empty leads page (not an error)
 
 ### Settings `/admin/meta_leads/settings`
 
-![Settings](Meta%20Lead%20Ads%20Settings.png)
+![Settings](screenshots/Meta%20Lead%20Ads%20Settings.png)
 
 - Facebook connection form (App ID, App Secret, Access Token, Verify Token)
 - Live connection status indicator with animated pulse
