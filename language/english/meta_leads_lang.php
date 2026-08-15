@@ -1,0 +1,24 @@
+<?php
+$lang['meta_leads'] = 'Meta sync';
+$lang['meta_leads_submitted'] = 'Meta Leads';
+$lang['meta_leads_lead_settings'] = 'Mapping';
+$lang['meta_leads_sync_history'] = 'Sync logs';
+$lang['meta_leads_settings'] = 'Settings';
+$lang['meta_leads_app_id'] = 'Meta App ID';
+$lang['meta_leads_app_secret'] = 'Meta App Secret';
+$lang['meta_leads_webhook_url'] = 'Webhook URL';
+$lang['meta_leads_verify_token'] = 'Verify Token';
+$lang['meta_leads_connect'] = 'Connect with Facebook';
+$lang['meta_leads_default_status'] = 'Default Lead Status';
+$lang['meta_leads_default_source'] = 'Default Lead Source';
+$lang['meta_leads_default_staff'] = 'Default Assigned Staff';
+$lang['add_to_crm'] = 'Add to CRM';
+$lang['settings_updated'] = 'Settings updated successfully';
+$lang['lead_added_successfully'] = 'Lead added successfully';
+$lang['problem_adding_lead'] = 'Problem adding lead to CRM';
+$lang['meta_leads_deleted'] = 'Lead deleted';
+$lang['permission_view'] = 'View (Global)';
+$lang['permission_view_own'] = 'View (Own)';
+$lang['permission_create'] = 'Create';
+$lang['permission_edit'] = 'Edit';
+$lang['permission_delete'] = 'Delete';
