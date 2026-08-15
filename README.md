@@ -1,4 +1,4 @@
-# Meta Leads — Perfex CRM Module
+# Facebook & Instagram Leads Synchronization module for Perfex CRM - Marketing Automation for Meta Ads
 
 > **Collect, manage, and assign leads from Facebook & Instagram Lead Ads directly inside Perfex CRM.**
 
