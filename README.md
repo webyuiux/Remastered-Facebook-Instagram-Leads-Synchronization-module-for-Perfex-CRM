@@ -1,4 +1,4 @@
-# Facebook & Instagram Leads Synchronization module for Perfex CRM - Marketing Automation for Meta Ads
+# Remastered Facebook & Instagram Leads Synchronization module for Perfex CRM - Marketing Automation for Meta Ads
 
 > **Collect, manage, and assign leads from Facebook & Instagram Lead Ads directly inside Perfex CRM.**
 
@@ -398,5 +398,3 @@ This was a bug in earlier versions. As of v1.1.0, synced leads stay in the modul
 
 This module is **commercially licensed**. One purchase covers a single Perfex CRM installation.
 Redistribution, resale, or modification for resale is not permitted without written permission.
-
-**Author:** Virrat Global — [virratglobal.com](https://virratglobal.com)
